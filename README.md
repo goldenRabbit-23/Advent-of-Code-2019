@@ -13,7 +13,7 @@ Each day lives in its own folder, with:
 | Day | Title | Summary |
 |-----|-------|---------|
 | 01  | The Tyranny of the Rocket Equation | Compute total fuel from module masses, and include fuel-for-fuel until nonpositive. |
-| 02  |       |         |
+| 02  | 1202 Program Alarm | Run an Intcode program by applying the opcode and parameter rules, then find the noun and verb that make the program produce the desired output (at position 0). |
 | 03  |       |         |
 | 04  |       |         |
 | 05  |       |         |
