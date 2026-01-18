@@ -12,7 +12,7 @@ Each day lives in its own folder, with:
 
 | Day | Title | Summary |
 |-----|-------|---------|
-| 01  |       |         |
+| 01  | The Tyranny of the Rocket Equation | Compute total fuel from module masses, and include fuel-for-fuel until nonpositive. |
 | 02  |       |         |
 | 03  |       |         |
 | 04  |       |         |
