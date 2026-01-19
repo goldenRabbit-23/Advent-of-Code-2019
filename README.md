@@ -16,7 +16,7 @@ Each day lives in its own folder, with:
 | 02  | 1202 Program Alarm | Run an Intcode program by applying the opcode and parameter rules, then find the noun and verb that make the program produce the desired output (at position 0). |
 | 03  | Crossed Wires | Find the wires’ intersections (excluding origin), then pick the one with minimum Manhattan distance and the one with fewest combined steps. |
 | 04  | Secure Container | Count the valid passwords that meet the requirements within the given range. |
-| 05  |       |         |
+| 05  | Sunny with a Chance of Asteroids | Extend the Intcode computer with additional instructions and parameter modes, then run the program to output the final diagnostic code. |
 | 06  |       |         |
 | 07  |       |         |
 | 08  |       |         |
