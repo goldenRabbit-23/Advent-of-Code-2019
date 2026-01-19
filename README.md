@@ -17,7 +17,7 @@ Each day lives in its own folder, with:
 | 03  | Crossed Wires | Find the wires’ intersections (excluding origin), then pick the one with minimum Manhattan distance and the one with fewest combined steps. |
 | 04  | Secure Container | Count the valid passwords that meet the requirements within the given range. |
 | 05  | Sunny with a Chance of Asteroids | Extend the Intcode computer with additional instructions and parameter modes, then run the program to output the final diagnostic code. |
-| 06  |       |         |
+| 06  | Universal Orbit Map | Sum all nodes’ distances to `COM`, then find the shortest path between the objects that `YOU` and `SAN` orbit. |
 | 07  |       |         |
 | 08  |       |         |
 | 09  |       |         |
