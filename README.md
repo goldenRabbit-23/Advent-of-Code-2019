@@ -19,7 +19,7 @@ Each day lives in its own folder, with:
 | 05  | Sunny with a Chance of Asteroids | Extend the Intcode computer with additional instructions and parameter modes, then run the program to output the final diagnostic code. |
 | 06  | Universal Orbit Map | Sum all nodes’ distances to `COM`, then find the shortest path between the objects that `YOU` and `SAN` orbit. |
 | 07  | Amplification Circuit | Run an Amplifier Controller Software feedback-loop system to find the highest signal that can be sent to the thrusters with specific phase settings. |
-| 08  |       |         |
+| 08  | Space Image Format | Decode the image encoded in Space Image Format to reveal the hidden message. |
 | 09  |       |         |
 | 10  |       |         |
 | 11  |       |         |
