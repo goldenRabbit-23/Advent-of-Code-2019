@@ -20,7 +20,7 @@ Each day lives in its own folder, with:
 | 06  | Universal Orbit Map | Sum all nodes’ distances to `COM`, then find the shortest path between the objects that `YOU` and `SAN` orbit. |
 | 07  | Amplification Circuit | Run an Amplifier Controller Software feedback-loop system to find the highest signal that can be sent to the thrusters with specific phase settings. |
 | 08  | Space Image Format | Decode the image encoded in Space Image Format to reveal the hidden message. |
-| 09  |       |         |
+| 09  | Sensor Boost | Run the given BOOST program to obtain the BOOST keycode and the coordinates of the distress signal. |
 | 10  |       |         |
 | 11  |       |         |
 | 12  |       |         |
