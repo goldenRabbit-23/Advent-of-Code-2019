@@ -21,7 +21,7 @@ Each day lives in its own folder, with:
 | 07  | Amplification Circuit | Run an Amplifier Controller Software feedback-loop system to find the highest signal that can be sent to the thrusters with specific phase settings. |
 | 08  | Space Image Format | Decode the image encoded in Space Image Format to reveal the hidden message. |
 | 09  | Sensor Boost | Run the given BOOST program to obtain the BOOST keycode and the coordinates of the distress signal. |
-| 10  |       |         |
+| 10  | Monitoring Station | Determine the optimal location for a monitoring station that can detect the maximum number of asteroids, then identify the 200th asteroid vaporized by a clockwise-rotating laser. |
 | 11  |       |         |
 | 12  |       |         |
 | 13  |       |         |
