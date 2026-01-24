@@ -22,7 +22,7 @@ Each day lives in its own folder, with:
 | 08  | Space Image Format | Decode the image encoded in Space Image Format to reveal the hidden message. |
 | 09  | Sensor Boost | Run the given BOOST program to obtain the BOOST keycode and the coordinates of the distress signal. |
 | 10  | Monitoring Station | Determine the optimal location for a monitoring station that can detect the maximum number of asteroids, then identify the 200th asteroid vaporized by a clockwise-rotating laser. |
-| 11  |       |         |
+| 11  | Space Police | Run the robot's Intcode program to paint panels black or white, then read the registration identifier it leaves when the program halts. |
 | 12  |       |         |
 | 13  |       |         |
 | 14  |       |         |
