@@ -24,7 +24,7 @@ Each day lives in its own folder, with:
 | 10  | Monitoring Station | Determine the optimal location for a monitoring station that can detect the maximum number of asteroids, then identify the 200th asteroid vaporized by a clockwise-rotating laser. |
 | 11  | Space Police | Run the robot's Intcode program to paint panels black or white, then read the registration identifier it leaves when the program halts. |
 | 12  | The N-Body Problem | Simulate the motion of four moons for 1000 steps to compute the total energy, then determine how many steps it takes for the system to return to a previous state. |
-| 13  |       |         |
+| 13  | Care Package | Run the Intcode-based arcade game, count initial block tiles, then play in free mode to break all blocks and report the final score. |
 | 14  |       |         |
 | 15  |       |         |
 | 16  |       |         |
