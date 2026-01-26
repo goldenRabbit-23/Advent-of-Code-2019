@@ -26,7 +26,7 @@ Each day lives in its own folder, with:
 | 12  | The N-Body Problem | Simulate the motion of four moons for 1000 steps to compute the total energy, then determine how many steps it takes for the system to return to a previous state. |
 | 13  | Care Package | Run the Intcode-based arcade game, count initial block tiles, then play in free mode to break all blocks and report the final score. |
 | 14  | Space Stoichiometry | Compute the minimum amount of `ORE` needed to produce exactly 1 `FUEL`, then determine the maximum amount of `FUEL` you can produce from 1 trillion `ORE`. |
-| 15  |       |         |
+| 15  | Oxygen System | Run the Intcode-powered repair droid to locate the oxygen system, fully map the area, and determine how many minutes it takes for oxygen to fill the entire region. |
 | 16  |       |         |
 | 17  |       |         |
 | 18  |       |         |
