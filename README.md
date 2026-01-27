@@ -28,7 +28,7 @@ Each day lives in its own folder, with:
 | 14  | Space Stoichiometry | Compute the minimum amount of `ORE` needed to produce exactly 1 `FUEL`, then determine the maximum amount of `FUEL` you can produce from 1 trillion `ORE`. |
 | 15  | Oxygen System | Run the Intcode-powered repair droid to locate the oxygen system, fully map the area, and determine how many minutes it takes for oxygen to fill the entire region. |
 | 16  | Flawed Frequency Transmission | Compute the first eight digits of the signal after 100 FFT phases, then compute the eight-digit message at the offset after 100 phases when the input is repeated 10000 times. |
-| 17  |       |         |
+| 17  | Set and Forget | Run the Intcode ASCII program to read the scaffold map, compute the alignment-parameter sum, then compress the robot's movement path into three functions and feed them to the robot to report how much dust it collects. |
 | 18  |       |         |
 | 19  |       |         |
 | 20  |       |         |
