@@ -29,7 +29,7 @@ Each day lives in its own folder, with:
 | 15  | Oxygen System | Run the Intcode-powered repair droid to locate the oxygen system, fully map the area, and determine how many minutes it takes for oxygen to fill the entire region. |
 | 16  | Flawed Frequency Transmission | Compute the first eight digits of the signal after 100 FFT phases, then compute the eight-digit message at the offset after 100 phases when the input is repeated 10000 times. |
 | 17  | Set and Forget | Run the Intcode ASCII program to read the scaffold map, compute the alignment-parameter sum, then compress the robot's movement path into three functions and feed them to the robot to report how much dust it collects. |
-| 18  |       |         |
+| 18  | Many-Worlds Interpretation | Compute the minimum number of steps required to collect every key in the tunnels—once with a single robot and again with four robots starting from separate vaults. |
 | 19  |       |         |
 | 20  |       |         |
 | 21  |       |         |
