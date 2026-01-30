@@ -30,7 +30,7 @@ Each day lives in its own folder, with:
 | 16  | Flawed Frequency Transmission | Compute the first eight digits of the signal after 100 FFT phases, then compute the eight-digit message at the offset after 100 phases when the input is repeated 10000 times. |
 | 17  | Set and Forget | Run the Intcode ASCII program to read the scaffold map, compute the alignment-parameter sum, then compress the robot's movement path into three functions and feed them to the robot to report how much dust it collects. |
 | 18  | Many-Worlds Interpretation | Compute the minimum number of steps required to collect every key in the tunnels—once with a single robot and again with four robots starting from separate vaults. |
-| 19  |       |         |
+| 19  | Tractor Beam | Run the Intcode drone system to count how many points in the 50×50 area are affected by the tractor beam, then locate the closest position where a 100×100 square fits entirely within the beam. |
 | 20  |       |         |
 | 21  |       |         |
 | 22  |       |         |
