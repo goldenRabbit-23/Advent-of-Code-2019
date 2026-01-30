@@ -31,7 +31,7 @@ Each day lives in its own folder, with:
 | 17  | Set and Forget | Run the Intcode ASCII program to read the scaffold map, compute the alignment-parameter sum, then compress the robot's movement path into three functions and feed them to the robot to report how much dust it collects. |
 | 18  | Many-Worlds Interpretation | Compute the minimum number of steps required to collect every key in the tunnels—once with a single robot and again with four robots starting from separate vaults. |
 | 19  | Tractor Beam | Run the Intcode drone system to count how many points in the 50×50 area are affected by the tractor beam, then locate the closest position where a 100×100 square fits entirely within the beam. |
-| 20  |       |         |
+| 20  | Donut Maze | Find the shortest route from `AA` to `ZZ` through portal teleports, then solve the recursive version where inner portals descend a level and outer portals ascend, reaching `ZZ` only at the outermost layer. |
 | 21  |       |         |
 | 22  |       |         |
 | 23  |       |         |
