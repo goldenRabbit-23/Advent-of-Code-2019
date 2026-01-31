@@ -33,7 +33,7 @@ Each day lives in its own folder, with:
 | 19  | Tractor Beam | Run the Intcode drone system to count how many points in the 50×50 area are affected by the tractor beam, then locate the closest position where a 100×100 square fits entirely within the beam. |
 | 20  | Donut Maze | Find the shortest route from `AA` to `ZZ` through portal teleports, then solve the recursive version where inner portals descend a level and outer portals ascend, reaching `ZZ` only at the outermost layer. |
 | 21  | Springdroid Adventure | Write a springscript program for the springdroid (running on the Intcode computer) that lets it traverse and survey the hull without falling into space. |
-| 22  |       |         |
+| 22  | Slam Shuffle | Simulate the card shuffles using the given rules to find where card 2019 ends up in a 10007-card deck, then use modular arithmetic to find which card lands in position 2020 in a far larger deck. |
 | 23  |       |         |
 | 24  |       |         |
 | 25  |       |         |
