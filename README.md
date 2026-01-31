@@ -32,7 +32,7 @@ Each day lives in its own folder, with:
 | 18  | Many-Worlds Interpretation | Compute the minimum number of steps required to collect every key in the tunnels—once with a single robot and again with four robots starting from separate vaults. |
 | 19  | Tractor Beam | Run the Intcode drone system to count how many points in the 50×50 area are affected by the tractor beam, then locate the closest position where a 100×100 square fits entirely within the beam. |
 | 20  | Donut Maze | Find the shortest route from `AA` to `ZZ` through portal teleports, then solve the recursive version where inner portals descend a level and outer portals ascend, reaching `ZZ` only at the outermost layer. |
-| 21  |       |         |
+| 21  | Springdroid Adventure | Write a springscript program for the springdroid (running on the Intcode computer) that lets it traverse and survey the hull without falling into space. |
 | 22  |       |         |
 | 23  |       |         |
 | 24  |       |         |
