@@ -35,5 +35,5 @@ Each day lives in its own folder, with:
 | 21  | Springdroid Adventure | Write a springscript program for the springdroid (running on the Intcode computer) that lets it traverse and survey the hull without falling into space. |
 | 22  | Slam Shuffle | Simulate the card shuffles using the given rules to find where card 2019 ends up in a 10007-card deck, then use modular arithmetic to find which card lands in position 2020 in a far larger deck. |
 | 23  | Category Six | Rebuild a network of 50 Intcode computers, route all packets between them (including those handled by the NAT), and determine the first packet requested by the problem. |
-| 24  |       |         |
+| 24  | Planet of Discord | Simulate a planet's bug ecosystem and, using a recursively-folded space, calculate the total bug count after 200 minutes. |
 | 25  |       |         |
